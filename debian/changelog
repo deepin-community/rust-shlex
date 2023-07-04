@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-shlex (1.1.0-1) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Package shlex 1.1.0 from crates.io using debcargo 2.5.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Peter Michael Green <plugwash@debian.org>  Sun, 31 Jul 2022 17:08:52 +0000
+
+rust-shlex (0.1.1-1) unstable; urgency=medium
+
+  * Package shlex 0.1.1 from crates.io using debcargo 2.1.2
+
+ -- Sylvestre Ledru <sylvestre@debian.org>  Fri, 06 Jul 2018 00:19:53 +0200
